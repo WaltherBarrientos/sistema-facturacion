@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using Capa_AccesoDatos;
 
+
 namespace Capa_LogicaDeNegocios
 {
     public class Cls_Clientes
